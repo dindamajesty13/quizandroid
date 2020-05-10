@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">SpeechQuiz</string>
+    <string name="quiz">Quiz</string>
+    <string name="play">Play</string>
+    <string name="text_quiz">Text Quiz</string>
+    <string name="microphone">Microphone</string>
+    <string name="image_quiz">Image Quiz</string>
+    <string name="nilai">Nilai:</string>
+    <string name="view_nilai">nilai</string>
+    <string name="restart">restart</string>
+    <string name="jawaban">Jawaban</string>
+    <string name="yaah_kamu_kalah_deh">Yaah, kalah deh</string>
+    <string name="tetap_semangat_ya">Tetap semangat ya!</string>
+    <string name="total_skor">Total Skor:</string>
+    <string name="semangat">semangat</string>
+    <string name="background1">background1</string>
+    <string name="background2">background2</string>
+    <string name="background3">background3</string>
+    <string name="background4">background4</string>
+    <string name="speaky_ain">Speaky AIN</string>
+
+    <string-array name="array_soal">
+        <item>Apel</item>
+        <item>Anggur</item>
+        <item>Ayam</item>
+        <item>Anjing</item>
+        <item>Api</item>
+        <item>Ayah</item>
+        <item>Air</item>
+        <item>Ambulans</item>
+        <item>Astronot</item>
+        <item>Adik</item>
+        <item>Ban</item>
+        <item>Baju</item>
+        <item>Babi</item>
+        <item>Badak</item>
+        <item>Beruang</item>
+        <item>Belalang</item>
+        <item>Bangau</item>
+        <item>Gajah</item>
+        <item>Jambu</item>
+        <item>Pisang</item>
+        <item>Kera</item>
+        <item>Koala</item>
+        <item>Kuda</item>
+        <item>Meja</item>
+        <item>Kura-Kura</item>
+        <item>Laba-Laba</item>
+        <item>Mangga</item>
+        <item>Panda</item>
+        <item>Zebra</item>
+        <item>Kelapa</item>
+        <item>Nangka</item>
+    </string-array>
+
+    <string name="soal1">Apel</string>
+
+
+    <drawable name="soal1">@drawable/apel</drawable>
+    <drawable name="soal2">@drawable/anggur</drawable>
+    <drawable name="soal3">@drawable/ayam</drawable>
+    <drawable name="soal4">@drawable/anjing</drawable>
+    <drawable name="soal5">@drawable/api</drawable>
+    <drawable name="soal6">@drawable/ayah</drawable>
+    <drawable name="soal7">@drawable/air</drawable>
+    <drawable name="soal8">@drawable/ambulans</drawable>
+    <drawable name="soal9">@drawable/astronot</drawable>
+    <drawable name="soal10">@drawable/adik</drawable>
+    <drawable name="soal11">@drawable/ban</drawable>
+    <drawable name="soal12">@drawable/baju</drawable>
+    <drawable name="soal13">@drawable/babi</drawable>
+    <drawable name="soal14">@drawable/badak</drawable>
+    <drawable name="soal15">@drawable/beruang</drawable>
+    <drawable name="soal16">@drawable/belalang</drawable>
+    <drawable name="soal17">@drawable/bangau</drawable>
+    <drawable name="soal18">@drawable/gajah</drawable>
+    <drawable name="soal19">@drawable/jambu</drawable>
+    <drawable name="soal20">@drawable/pisang</drawable>
+    <drawable name="soal21">@drawable/kera</drawable>
+    <drawable name="soal22">@drawable/koala</drawable>
+    <drawable name="soal23">@drawable/kuda</drawable>
+    <drawable name="soal24">@drawable/meja</drawable>
+    <drawable name="soal25">@drawable/kura</drawable>
+    <drawable name="soal26">@drawable/laba</drawable>
+    <drawable name="soal27">@drawable/mangga</drawable>
+    <drawable name="soal28">@drawable/panda</drawable>
+    <drawable name="soal29">@drawable/zebra</drawable>
+    <drawable name="soal30">@drawable/kelapa</drawable>
+    <drawable name="soal31">@drawable/nangka</drawable>
+</resources>
